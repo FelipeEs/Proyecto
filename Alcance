@@ -1,0 +1,27 @@
+Integrantes:
+
+Felipe Escobar
+Lender Peralta
+Jesus Barraza
+Melisa Ruiz
+
+“SYNCROCALENDER”
+La idea de crear una página web donde se visualice un calendario dentro de la organización, surge tras ver la necesidad que viven los empleados de la O. Es necesario, utilizar este método para administrar de una manera más equitativa el tiempo.
+OBJETIVO PRINCIPAL
+Implementar un sistema utilizando Bootstrap para un control de tiempo dentro de la organización Allus.
+ALCANCE
+Dentro de esta implementación se podrá visualizar, modificar, agregar y eliminar tareas o actividades que realice cada usuario dentro de la compañía.
+TECNOLOGIA
+-	Bootstrap
+-	MySQL
+-	HTML 5
+-	Java Script
+-	Jsp
+ROLES
+-	Gerente de proyectos: Melisa
+-	Arquitecto: Jesus
+-	Ingeniero líder: Felipe
+-	Analista de requisitos: Lender
+-	Ingeniero de desarrollo: Jesus – Felipe
+-	Analista de calidad: Jesus -  Melisa
+
